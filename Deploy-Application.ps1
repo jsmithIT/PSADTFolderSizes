@@ -92,7 +92,7 @@ Try {
 	# Application install Path.
 	$64bitAppInstallPath = "$PSScriptRoot\Files\fs9-setup.exe"
 	# Application  install parameters.
-	$64bitAppInstallParam = "LICENSE_CODE=`"XTUV7-UTF3U-2JL0M-UNAUV-UUMUU-1N7F8-NG8QU-1U5DP-H320X-S6T8G`" /QN" 
+	$64bitAppInstallParam = "LICENSE_CODE=`"CONFIDENTIAL`" /QN" 
 
 	##* Remove Application Names 
 	# Mainly used in the Pre-Installation, Pre-Uninstallation, Uninstallation and Post-Uninstallation phases.
